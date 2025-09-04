@@ -57,5 +57,12 @@ self.addEventListener('install', e => {
 self.addEventListener('fetch', e => {
   // Podemos agregar cache aquí si queremos offline
 });
+/index.html
+/style.css
+/script.js
+/manifest.json
+/sw.js
+/logo.svg
+/README.md
 
 
