@@ -1,3 +1,10 @@
+<script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js')
+  .then(() => console.log('Service Worker registrado ✅'))
+  .catch(console.error);
+}
+</script>
 index.html{
   "name": "tapiz-webapp",
   "version": "1.0.0",
