@@ -18,3 +18,24 @@ index.html{
   }
 }
 npm i @vercel/analytics
+{
+  "name": "Tapiz Predictivo",
+  "short_name": "Tapiz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff7e0",
+  "theme_color": "#7c3aed",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
