@@ -64,5 +64,6 @@ self.addEventListener('fetch', e => {
 /sw.js
 /logo.svg
 /README.md
+pnpm i @vercel/sdk
 
 
